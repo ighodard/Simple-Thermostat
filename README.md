@@ -18,5 +18,17 @@ This project involved designing a circuit involving a thermistor to measure temp
 # Code
 [Code](Thermistor2.ino)
 
+# Demo Video
+[Demo](https://youtube.com/shorts/_mMvecjzsW4?feature=share)
+
+# Usage 
+Complete the circuit as shown above, ensure there are no opportunities for short circuits, and double-check every connection. Implement the code above and upload it to the microcontroller. Double-check that the values in the code match the circuit components. Test the circuit and interpret the results on the LCD screen.
+
+# Common Issues
+1. Forgetting to convert from degrees Celsius to Kelvin when using the Steinhart–Hart equation
+2. Loose wires
+3. Accidentally writing code for a PTC thermistor
+
+
 
 
