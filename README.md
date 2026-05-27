@@ -15,4 +15,8 @@ This project involved designing a circuit involving a thermistor to measure temp
 # Wiring Diagram
 ![Wiring Diagram](Thermistor.png)
 
+# Code
+[Code](Thermistor2.ino)
+
+
 
