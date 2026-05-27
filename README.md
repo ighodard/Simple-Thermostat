@@ -13,3 +13,6 @@ This project involved designing a circuit involving a thermistor to measure temp
 6. C++ based Arduino IDE
 
 # Wiring Diagram
+![Wiring Diagram](Thermistor.png)
+
+
